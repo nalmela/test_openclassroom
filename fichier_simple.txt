@@ -1,1 +1,2 @@
 Fichier avec uniquement une ligne
+Ceci est la seconde ligne ajoutée
