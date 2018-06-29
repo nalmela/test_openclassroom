@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 Admin 197609  88 juin  29 19:43 README.txt
+-rw-r--r-- 1 Admin 197609 234 juin  29 19:46 note_php.txt
+-rw-r--r-- 1 Admin 197609  34 juin  29 19:47 fichier_simple.txt
+-rw-r--r-- 1 Admin 197609   0 juin  29 19:50 liste-fic.txt
